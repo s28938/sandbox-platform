@@ -9,7 +9,7 @@ locals {
       chart_version = "0.4.17"
     }
     argocd = {
-      chart_version = "4.9.11"
+      chart_version = "5.50.1"
     }
     kube-prometheus-stack = {
       chart_version = "41.7.2"

@@ -68,7 +68,7 @@ generate "versions" {
         }
         argocd = {
           source  = "oboukili/argocd"
-          version = "~> 3.2.0"
+          version = "~> 6.0.3"
         }
         htpasswd = {
           source = "loafoe/htpasswd"
