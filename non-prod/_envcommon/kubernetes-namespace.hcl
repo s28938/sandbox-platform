@@ -1,5 +1,5 @@
 terraform {
-  source = "git::git@github.com:pbak-pjatk/terraform-modules.git//kubernetes-namespace?ref=main"
+  source = "git::git@github.com:s28938/terraform-modules.git//kubernetes-namespace?ref=main"
 }
 
 locals {
