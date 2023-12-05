@@ -1,5 +1,5 @@
 terraform {
-  source = "git::git@github.com:s28938/terraform-modules.git//app-of-apps?ref=tf-lab"
+  source = "git::git@github.com:s28938/terraform-modules.git//app-of-apps?ref=main"
 }
 
 dependencies {
