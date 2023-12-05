@@ -9,5 +9,5 @@ include "envcommon" {
 }
 
 inputs = {
-  namespace = "pjatk-dev"
+
 }
